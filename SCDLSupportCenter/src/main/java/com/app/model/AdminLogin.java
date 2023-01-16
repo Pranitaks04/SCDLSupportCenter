@@ -7,6 +7,7 @@ import jakarta.persistence.Table;
 @Entity
 @Table(name="admin_login")
 public class AdminLogin {
+	//fyfg
 	@Id
 	private int id;
 	private String gmail;
