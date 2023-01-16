@@ -9,7 +9,7 @@ public class AdminCenterApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(AdminCenterApplication.class, args);
 		System.out.println("Server Up...");
-		//skw
+	
 	}
 
 }
