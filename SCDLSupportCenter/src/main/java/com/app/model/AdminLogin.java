@@ -3,7 +3,7 @@ package com.app.model;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
-
+ //felmem
 @Entity
 @Table(name="admin_login")
 public class AdminLogin {
