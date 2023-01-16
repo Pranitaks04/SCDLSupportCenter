@@ -9,6 +9,7 @@ import jakarta.persistence.Table;
 @Entity
 @Table(name="admin")
 public class Admin {
+	//lol
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	private int id;
